@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts project
+Shell Scripts project
